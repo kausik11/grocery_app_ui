@@ -28,7 +28,7 @@ To get started with the Grocery Application, follow these steps:
 - Material UI
 - Tailwind CSS
 - JSON and asynchronous JSON data
-- APIs for retrieving data
+- APIs for retrieving data (https://api.npoint.io/bc3d1b1bc1a0fde36701)
 
 ## License
 
